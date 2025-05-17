@@ -1,0 +1,10 @@
+D:\Application\SoNhoNHat\SoNhoNHat\bin\Debug\SoNhoNHat.exe.config
+D:\Application\SoNhoNHat\SoNhoNHat\bin\Debug\SoNhoNHat.exe
+D:\Application\SoNhoNHat\SoNhoNHat\bin\Debug\SoNhoNHat.pdb
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.csproj.AssemblyReference.cache
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.Form1.resources
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.Properties.Resources.resources
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.csproj.GenerateResource.cache
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.csproj.CoreCompileInputs.cache
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.exe
+D:\Application\SoNhoNHat\SoNhoNHat\obj\Debug\SoNhoNHat.pdb
