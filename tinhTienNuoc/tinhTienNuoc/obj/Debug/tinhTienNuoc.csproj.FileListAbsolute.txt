@@ -1,0 +1,11 @@
+D:\Application\tinhTienNuoc\tinhTienNuoc\bin\Debug\tinhTienNuoc.exe.config
+D:\Application\tinhTienNuoc\tinhTienNuoc\bin\Debug\tinhTienNuoc.exe
+D:\Application\tinhTienNuoc\tinhTienNuoc\bin\Debug\tinhTienNuoc.pdb
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.csproj.AssemblyReference.cache
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.Form1.resources
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.Properties.Resources.resources
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.csproj.GenerateResource.cache
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.csproj.CoreCompileInputs.cache
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.exe
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.pdb
+D:\Application\tinhTienNuoc\tinhTienNuoc\obj\Debug\tinhTienNuoc.exe.config

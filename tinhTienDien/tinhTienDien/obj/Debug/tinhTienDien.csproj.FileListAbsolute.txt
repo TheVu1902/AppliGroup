@@ -1,0 +1,10 @@
+D:\Application\tinhTienDien\tinhTienDien\bin\Debug\tinhTienDien.exe.config
+D:\Application\tinhTienDien\tinhTienDien\bin\Debug\tinhTienDien.exe
+D:\Application\tinhTienDien\tinhTienDien\bin\Debug\tinhTienDien.pdb
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.csproj.AssemblyReference.cache
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.Form1.resources
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.Properties.Resources.resources
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.csproj.GenerateResource.cache
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.csproj.CoreCompileInputs.cache
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.exe
+D:\Application\tinhTienDien\tinhTienDien\obj\Debug\tinhTienDien.pdb
