@@ -1,0 +1,11 @@
+D:\Winform\Chiahaiso\Chiahaiso\bin\Debug\Chiahaiso.exe.config
+D:\Winform\Chiahaiso\Chiahaiso\bin\Debug\Chiahaiso.exe
+D:\Winform\Chiahaiso\Chiahaiso\bin\Debug\Chiahaiso.pdb
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.csproj.AssemblyReference.cache
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.Form1.resources
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.Properties.Resources.resources
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.csproj.GenerateResource.cache
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.csproj.CoreCompileInputs.cache
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.exe
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.pdb
+D:\Winform\Chiahaiso\Chiahaiso\obj\Debug\Chiahaiso.exe.config

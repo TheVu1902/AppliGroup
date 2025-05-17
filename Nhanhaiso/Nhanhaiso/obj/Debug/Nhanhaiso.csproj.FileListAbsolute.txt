@@ -1,0 +1,10 @@
+D:\Winform\Nhanhaiso\Nhanhaiso\bin\Debug\Nhanhaiso.exe.config
+D:\Winform\Nhanhaiso\Nhanhaiso\bin\Debug\Nhanhaiso.exe
+D:\Winform\Nhanhaiso\Nhanhaiso\bin\Debug\Nhanhaiso.pdb
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.csproj.AssemblyReference.cache
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.Form1.resources
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.Properties.Resources.resources
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.csproj.GenerateResource.cache
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.csproj.CoreCompileInputs.cache
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.exe
+D:\Winform\Nhanhaiso\Nhanhaiso\obj\Debug\Nhanhaiso.pdb
