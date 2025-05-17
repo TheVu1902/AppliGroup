@@ -1,0 +1,11 @@
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\bin\Debug\ChiaHetCheck.exe.config
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\bin\Debug\ChiaHetCheck.exe
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\bin\Debug\ChiaHetCheck.pdb
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.csproj.AssemblyReference.cache
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.Form1.resources
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.Properties.Resources.resources
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.csproj.GenerateResource.cache
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.csproj.CoreCompileInputs.cache
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.exe
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.pdb
+D:\Application\KiemTraChiaHet\ChiaHetCheck\ChiaHetCheck\obj\Debug\ChiaHetCheck.exe.config

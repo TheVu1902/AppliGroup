@@ -1,0 +1,10 @@
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.csproj.AssemblyReference.cache
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.Form1.resources
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.Properties.Resources.resources
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.csproj.GenerateResource.cache
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.csproj.CoreCompileInputs.cache
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\bin\Debug\TinhDienTichHCN.exe.config
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\bin\Debug\TinhDienTichHCN.exe
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\bin\Debug\TinhDienTichHCN.pdb
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.exe
+D:\Application\DienTichChuNhat\TinhDienTichHCN\TinhDienTichHCN\obj\Debug\TinhDienTichHCN.pdb

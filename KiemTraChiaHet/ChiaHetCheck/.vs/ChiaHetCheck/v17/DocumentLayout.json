@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91F221-E465-4AA3-9C3A-1B3C145A6280}|ChiaHetCheck\\ChiaHetCheck.csproj|d:\\application\\kiemtrachiahet\\chiahetcheck\\chiahetcheck\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91F221-E465-4AA3-9C3A-1B3C145A6280}|ChiaHetCheck\\ChiaHetCheck.csproj|solutionrelative:chiahetcheck\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91F221-E465-4AA3-9C3A-1B3C145A6280}|ChiaHetCheck\\ChiaHetCheck.csproj|d:\\application\\kiemtrachiahet\\chiahetcheck\\chiahetcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E91F221-E465-4AA3-9C3A-1B3C145A6280}|ChiaHetCheck\\ChiaHetCheck.csproj|solutionrelative:chiahetcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E91F221-E465-4AA3-9C3A-1B3C145A6280}|ChiaHetCheck\\ChiaHetCheck.csproj|d:\\application\\kiemtrachiahet\\chiahetcheck\\chiahetcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E91F221-E465-4AA3-9C3A-1B3C145A6280}|ChiaHetCheck\\ChiaHetCheck.csproj|solutionrelative:chiahetcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\ChiaHetCheck\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChiaHetCheck\\Form1.Designer.cs",
+              "ToolTip": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\ChiaHetCheck\\Form1.Designer.cs",
+              "RelativeToolTip": "ChiaHetCheck\\Form1.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv2YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:01:47.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\ChiaHetCheck\\Form1.cs",
+              "RelativeDocumentMoniker": "ChiaHetCheck\\Form1.cs",
+              "ToolTip": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\ChiaHetCheck\\Form1.cs",
+              "RelativeToolTip": "ChiaHetCheck\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:01:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\ChiaHetCheck\\Form1.cs",
+              "RelativeDocumentMoniker": "ChiaHetCheck\\Form1.cs",
+              "ToolTip": "D:\\Application\\KiemTraChiaHet\\ChiaHetCheck\\ChiaHetCheck\\Form1.cs [Design]",
+              "RelativeToolTip": "ChiaHetCheck\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:58:13.985Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
