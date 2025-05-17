@@ -1,0 +1,16 @@
+D:\Winform\BCSNN\BCSNN\bin\Debug\net8.0-windows\BCSNN.exe
+D:\Winform\BCSNN\BCSNN\bin\Debug\net8.0-windows\BCSNN.deps.json
+D:\Winform\BCSNN\BCSNN\bin\Debug\net8.0-windows\BCSNN.runtimeconfig.json
+D:\Winform\BCSNN\BCSNN\bin\Debug\net8.0-windows\BCSNN.dll
+D:\Winform\BCSNN\BCSNN\bin\Debug\net8.0-windows\BCSNN.pdb
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.Form1.resources
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.csproj.GenerateResource.cache
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.AssemblyInfoInputs.cache
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.AssemblyInfo.cs
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.csproj.CoreCompileInputs.cache
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.dll
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\refint\BCSNN.dll
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.pdb
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\BCSNN.genruntimeconfig.cache
+D:\Winform\BCSNN\BCSNN\obj\Debug\net8.0-windows\ref\BCSNN.dll

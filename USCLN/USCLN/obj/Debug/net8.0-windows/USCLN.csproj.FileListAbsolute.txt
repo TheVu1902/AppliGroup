@@ -1,0 +1,16 @@
+D:\Winform\USCLN\USCLN\bin\Debug\net8.0-windows\USCLN.exe
+D:\Winform\USCLN\USCLN\bin\Debug\net8.0-windows\USCLN.deps.json
+D:\Winform\USCLN\USCLN\bin\Debug\net8.0-windows\USCLN.runtimeconfig.json
+D:\Winform\USCLN\USCLN\bin\Debug\net8.0-windows\USCLN.dll
+D:\Winform\USCLN\USCLN\bin\Debug\net8.0-windows\USCLN.pdb
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.Form1.resources
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.csproj.GenerateResource.cache
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.AssemblyInfoInputs.cache
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.AssemblyInfo.cs
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.csproj.CoreCompileInputs.cache
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.dll
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\refint\USCLN.dll
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.pdb
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\USCLN.genruntimeconfig.cache
+D:\Winform\USCLN\USCLN\obj\Debug\net8.0-windows\ref\USCLN.dll
