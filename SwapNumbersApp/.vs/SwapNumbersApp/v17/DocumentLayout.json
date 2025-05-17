@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Application2\\SwapNumbersApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDA1C1B-006C-49C9-BE70-E10620DA9353}|SwapNumbersApp\\SwapNumbersApp.csproj|d:\\application2\\swapnumbersapp\\swapnumbersapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BDA1C1B-006C-49C9-BE70-E10620DA9353}|SwapNumbersApp\\SwapNumbersApp.csproj|solutionrelative:swapnumbersapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDA1C1B-006C-49C9-BE70-E10620DA9353}|SwapNumbersApp\\SwapNumbersApp.csproj|d:\\application2\\swapnumbersapp\\swapnumbersapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDA1C1B-006C-49C9-BE70-E10620DA9353}|SwapNumbersApp\\SwapNumbersApp.csproj|solutionrelative:swapnumbersapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Application2\\SwapNumbersApp\\SwapNumbersApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SwapNumbersApp\\Form1.cs",
+              "ToolTip": "D:\\Application2\\SwapNumbersApp\\SwapNumbersApp\\Form1.cs",
+              "RelativeToolTip": "SwapNumbersApp\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:37:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Application2\\SwapNumbersApp\\SwapNumbersApp\\Form1.cs",
+              "RelativeDocumentMoniker": "SwapNumbersApp\\Form1.cs",
+              "ToolTip": "D:\\Application2\\SwapNumbersApp\\SwapNumbersApp\\Form1.cs [Design]",
+              "RelativeToolTip": "SwapNumbersApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T03:32:31.686Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

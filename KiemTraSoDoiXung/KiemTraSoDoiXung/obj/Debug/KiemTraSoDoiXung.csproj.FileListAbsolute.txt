@@ -1,0 +1,10 @@
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\bin\Debug\KiemTraSoDoiXung.exe.config
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\bin\Debug\KiemTraSoDoiXung.exe
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\bin\Debug\KiemTraSoDoiXung.pdb
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.csproj.AssemblyReference.cache
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.Form1.resources
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.Properties.Resources.resources
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.csproj.GenerateResource.cache
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.csproj.CoreCompileInputs.cache
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.exe
+D:\Application2\KiemTraSoDoiXung\KiemTraSoDoiXung\obj\Debug\KiemTraSoDoiXung.pdb

@@ -1,0 +1,11 @@
+D:\Application2\SwapNumbersApp\SwapNumbersApp\bin\Debug\SwapNumbersApp.exe.config
+D:\Application2\SwapNumbersApp\SwapNumbersApp\bin\Debug\SwapNumbersApp.exe
+D:\Application2\SwapNumbersApp\SwapNumbersApp\bin\Debug\SwapNumbersApp.pdb
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.csproj.AssemblyReference.cache
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.Form1.resources
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.Properties.Resources.resources
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.csproj.GenerateResource.cache
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.csproj.CoreCompileInputs.cache
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.exe
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.pdb
+D:\Application2\SwapNumbersApp\SwapNumbersApp\obj\Debug\SwapNumbersApp.exe.config
